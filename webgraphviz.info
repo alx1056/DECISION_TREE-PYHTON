@@ -1,0 +1,4 @@
+After locating your Dot-Tree file 
+please go to http://webgraphviz.com/ and copy the data from your Dot-Tree file and paste it in this text-editor
+
+Once you have pasted the data, you can visualize the decision tree by clicking "Generate Graph"
